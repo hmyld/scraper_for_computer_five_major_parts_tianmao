@@ -1,0 +1,52 @@
+# 登录态
+state.json
+*.json
+!dictionary/*.json
+!package.json
+
+# 数据文件（太大，不需要版本管理）
+data/
+
+# 日志
+logs/
+
+# 调试截图
+debug/
+*.png
+!docs/images/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 测试覆盖率
+.coverage
+htmlcov/
+.pytest_cache/
