@@ -73,7 +73,7 @@
 ```bash
 # 克隆项目
 git clone https://github.com/hmyld/scraper_for_computer_five_major_parts_tianmao.git
-cd PCBuilder
+cd scraper_for_computer_five_major_parts_tianmao
 
 # 安装依赖
 pip install -r requirements.txt
