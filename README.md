@@ -72,7 +72,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/PCBuilder.git
+git clone https://github.com/hmyld/scraper_for_computer_five_major_parts_tianmao.git
 cd PCBuilder
 
 # 安装依赖
